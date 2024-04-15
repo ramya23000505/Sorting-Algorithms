@@ -37,7 +37,12 @@ ii)	#Insertion Sort
 ```
 
 ## Output:
-
+# Selection Sort
+![Screenshot 2024-04-15 135636](https://github.com/ramya23000505/Sorting-Algorithms/assets/149370791/bc7e427e-c611-4104-8d81-d4f19b518edc)
+![Screenshot 2024-04-15 135641](https://github.com/ramya23000505/Sorting-Algorithms/assets/149370791/2c3dd661-5801-4bbd-9bfe-e6dfbf78a8d2)
+# Insertion Sort
+![Screenshot 2024-04-15 135806](https://github.com/ramya23000505/Sorting-Algorithms/assets/149370791/f833c572-e148-4de1-8817-3d2198a0359e)
+![Screenshot 2024-04-15 135812](https://github.com/ramya23000505/Sorting-Algorithms/assets/149370791/74d6d0b7-39a6-4628-9319-f57b3e2b420e)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
