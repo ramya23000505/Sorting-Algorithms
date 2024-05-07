@@ -1,4 +1,5 @@
 # Selection sort and Insertion sort
+## Date:
 ## Aim:
 To write a program to perform selection sort and insertion sort using python programming.
 ## Equipment’s required:
@@ -57,16 +58,11 @@ print(num)
 
 ## Output:
 # Selection Sort
-
-![Screenshot 2024-04-24 155056](https://github.com/ramya23000505/Sorting-Algorithms/assets/149370791/da4b6150-2624-45ca-bbc5-da63418259e2)
-
-![Screenshot 2024-04-24 155107](https://github.com/ramya23000505/Sorting-Algorithms/assets/149370791/29c8da5f-05fb-4739-8c43-c5c52a3aad02)
-
+![alt text](<py 8 a.png>)
+![alt text](<py 8 a op.png>)
 # Insertion Sort
-
-![Screenshot 2024-04-24 155141](https://github.com/ramya23000505/Sorting-Algorithms/assets/149370791/36b394ce-d743-41bc-adf8-686383bbd7c1)
-
-![Screenshot 2024-04-24 155153](https://github.com/ramya23000505/Sorting-Algorithms/assets/149370791/ad5fafc2-5f96-40a7-847c-34bdccc015e2)
+![alt text](<py 8 b in.png>)
+![alt text](<py 8 b op.png>)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
