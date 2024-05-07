@@ -21,11 +21,9 @@ To write a program to perform selection sort and insertion sort using python pro
 ## Program:
 i)	#Selection Sort
 
-'''
 Program to sort the elements in the list using the Selection Sort algorithm
-Developed by Ramya R
-Register No: 212223230169
-'''
+### Developed by Ramya R
+### Register No: 212223230169
 ```
 num=eval(input())
 for i in range(len(num)):
@@ -39,11 +37,10 @@ print(num)
 
 ii)	#Insertion Sort
 
-'''
 Program to sort the elements in the list using the Insertion Sort algorithm
-Developed by Ramya R
-Register No: 212223230169
-'''
+
+### Developed by Ramya R
+### Register No: 212223230169
 ```
 num=eval(input())
 for i in range(1,len(num)):
